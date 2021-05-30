@@ -21,7 +21,7 @@
     "mini-css-extract-plugin": "^0.6.0",
     "puppeteer": "^1.14.0",
     "uuid": "^3.3.2",
-    "ws": "^7.0.0"
+    "ws": "^7.4.6"
   },
   "devDependencies": {},
   "scripts": {
